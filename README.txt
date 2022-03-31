@@ -1,4 +1,4 @@
-The assignment folder contains html files -- css-assignments
+The assignment folder contains html files -- css-assignments -- js-assignments
 
 minor changes in README.txt --master branch in css-assignments
 
