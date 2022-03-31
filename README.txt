@@ -1,4 +1,4 @@
-The assignment folder contains html files
+The assignment folder contains html files -- css-assignments
 
 minor changes in README.txt
 
